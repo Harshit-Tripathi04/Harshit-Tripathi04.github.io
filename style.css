@@ -1,3 +1,10 @@
+header{
+    margin: 0;
+    text-align: center;
+}
 body{
-    margin: 0px;
+    margin: 0;
+    background-image: url('sources/background.jpg');
+    background-position: center;
+    
 }
