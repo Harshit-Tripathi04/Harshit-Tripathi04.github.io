@@ -3,8 +3,13 @@ header{
     text-align: center;
 }
 body{
-    margin: 0;
-    background-image: url('sources/background.jpg');
-    background-position: center;
-    
+    background-image: url('sources/background2.jpg');
+    background-position: right;
+    }
+img[id="1"]{
+    border-radius: 100%;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
