@@ -1,7 +1,10 @@
-header{
-    margin: 0;
-    text-align: center;
-    color:rgb(179, 197, 18);
+#name {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    width: 30%;
+    
 }
 body{
     background-image: url('sources/background2.jpg');
@@ -31,4 +34,7 @@ img[id="1"]{
 }
 #meh {
     flex: 1;
+    color:rgb(179, 197, 18);
+    color:rgb(179, 197, 18);
+    color:rgb(179, 197, 18);
 }
