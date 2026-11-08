@@ -17,7 +17,7 @@ img[id="1"]{
     margin-left: auto;
     margin-right: auto;
 }
-#text{
+#text , #footer {
     display: flex;
     gap: 50px;
 }
@@ -37,4 +37,15 @@ img[id="1"]{
     color:rgb(179, 197, 18);
     color:rgb(179, 197, 18);
     color:rgb(179, 197, 18);
+}
+#social1 , #social2 , #social3 {
+    flex: 1;
+    text-align: center;
+}
+#github{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background: transparent;
+    border: none;
 }
